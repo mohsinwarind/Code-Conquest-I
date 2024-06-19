@@ -14,7 +14,7 @@ Welcome to the official repository for "The Wise Sapiens CodeConquest" website. 
   - [License](#license)
 
 ## Live Demo
-Check out the live demo of the website: [The Wise Sapiens CodeConquest](https://yourwebsiteurl.com)
+Check out the live demo of the website: [The Wise Sapiens CodeConquest](https://mohsinwarind.github.io/Code-Conquest-I/)
 
 ## Features
 - **Video Background**: Engaging background video to capture visitors' attention.
@@ -70,5 +70,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any questions or feedback, feel free to reach out through our [contact number](https://wa.me/923277046356).
 
-Designed with ❤️ by [Abdul Wahab](https://abdulwahabasif.com) and [Mohsin]([mohsin.html](https://mohsinwarind.github.io/mohsinramzan/)). Sponsored by [The Wise Sapiens](https://mohsinwarind.github.io/The-Wise-Sapiens/).
+Designed with ❤️ by [Abdul Wahab](https://abdulwahabasif.com) and [Mohsin](https://mohsinwarind.github.io/mohsinramzan/). Sponsored by [The Wise Sapiens](https://mohsinwarind.github.io/The-Wise-Sapiens/).
 
