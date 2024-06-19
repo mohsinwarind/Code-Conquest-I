@@ -374,3 +374,17 @@ body{
     transition: transform 0.3s ease;
     user-select: none;
 }
+
+.social-media {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    animation: fadeIn 4s ease-in-out;
+}
+
+.social-icon {
+    color: #fff;
+    font-size: 2rem;
+    text-decoration: none;
+}
